@@ -9,7 +9,7 @@ Graphite is a photo-to-sketch converter web app built with Python and Streamlit.
 - **Batch Processing**: Upload multiple images at once and download a ZIP file of all sketches.
 - **FastAPI Endpoint**: Includes an API endpoint (`/convert`) to use the core conversion logic outside of the UI.
 
-![Screenshot Placeholder](https://via.placeholder.com/800x400.png?text=Graphite+Screenshot)
+![Graphite Screenshot](image.png)
 
 ## Setup Instructions
 
