@@ -33,3 +33,12 @@ If you want to use the API endpoints directly:
 uvicorn api:app --reload
 ```
 You can then access the interactive API docs at `http://127.0.0.1:8000/docs`.
+
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request.
+
+## License
+MIT License
+
+
+
